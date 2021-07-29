@@ -13,9 +13,6 @@ function loncatan(genap) {
 }
 console.log(loncatan(12344))
 
-
-
-
 // NO 2 BASIC KARAKTER HURUF
 
 function countJumlah(param) {
@@ -55,10 +52,6 @@ function hurufVokal(huruf) {
 }
 console.log(hurufVokal('ganda'))
 
-
-
-
-
 // NO 4 BASIC REVERSED
 function kalimatReverse(inputan) {
   let penyimpanan = "";
@@ -70,9 +63,6 @@ function kalimatReverse(inputan) {
 }
 
 console.log(kalimatReverse('ganda'))
-
-
-
 
 // #  NO 5 BASIC PALIDROM
 function inputanRe(word) {
@@ -90,10 +80,6 @@ function inputanRe(word) {
   }
 }
 console.log(inputanRe('gggg'))
-
-
-
-
 
 // # NO 6 BASIC KEMBALIAN
 
@@ -144,8 +130,6 @@ function tukerUang(uang) {
 }
 
 console.log ('amjir receh ' + tukerUang(1750))
-
-
 
 // NO 7 BASIC BINTANG
 
